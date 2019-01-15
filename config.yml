@@ -2,10 +2,14 @@ news_sites:
   eluniversal:
     url: http://www.eluniversal.com.co/
     queries:
-      homepages_article_links: '.template-eu-1 a'
+      homepages_article_links: '.template-eu-16 a'
+      article_body: 'article .paragraph'
+      article_title: '.template-eu-2 h1'
   eltiempo: 
     url: https://www.eltiempo.com/ 
     queries:
       homepages_article_links: ''
+      article_body: ''
+      article_title: ''
 
     
