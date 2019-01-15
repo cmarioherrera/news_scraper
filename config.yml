@@ -1,7 +1,11 @@
 news_sites:
   eluniversal:
     url: http://www.eluniversal.com.co/
+    queries:
+      homepages_article_links: '.template-eu-1 a'
   eltiempo: 
     url: https://www.eltiempo.com/ 
+    queries:
+      homepages_article_links: ''
 
     
