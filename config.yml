@@ -1,0 +1,7 @@
+news_sites:
+  eluniversal:
+    url: http://www.eluniversal.com.co/
+  eltiempo: 
+    url: https://www.eltiempo.com/ 
+
+    
